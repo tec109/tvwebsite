@@ -1,2 +1,2 @@
 # www.tylerveeman.com
-This README and website is under construction!
+This website is under construction! Please check back soon.
