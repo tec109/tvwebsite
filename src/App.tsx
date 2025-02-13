@@ -1,8 +1,8 @@
 import '@mantine/core/styles.css';
-import { MantineProvider, AppShell, Burger, Group, Title, NavLink, Text, Stack, Grid, Button, ActionIcon } from '@mantine/core';
+import { MantineProvider, AppShell, Burger, Group, Title, NavLink, Text, Grid, ActionIcon } from '@mantine/core';
 import { useDisclosure, useElementSize } from '@mantine/hooks';
 import { theme } from './theme';
-import { IconHome, IconBriefcase, IconSchool, IconMist, IconBrandGithub } from '@tabler/icons-react';
+import { IconHome, IconBriefcase, IconSchool, IconMist } from '@tabler/icons-react';
 
 function App() {
   const [ opened, {toggle} ] = useDisclosure();
